@@ -1,6 +1,7 @@
 # Custom Icons
 
 `svg` folder holds sources for all icons
+
 `archive/font-presscentric-icons-v*.zip` is the package as downloaded from IcoMoon
 
 ### Adobe Illustrator Notes
