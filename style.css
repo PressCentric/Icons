@@ -1,0 +1,56 @@
+@font-face {
+  font-family: 'presscentric-icons';
+  src:  url('fonts/presscentric-icons.eot?b9wtc2');
+  src:  url('fonts/presscentric-icons.eot?b9wtc2#iefix') format('embedded-opentype'),
+    url('fonts/presscentric-icons.ttf?b9wtc2') format('truetype'),
+    url('fonts/presscentric-icons.woff?b9wtc2') format('woff'),
+    url('fonts/presscentric-icons.svg?b9wtc2#presscentric-icons') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+
+[class^="pc-icon-"], [class*=" pc-icon-"] {
+  /* use !important to prevent issues with browser extensions that change fonts */
+  font-family: 'presscentric-icons' !important;
+  speak: none;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+
+  /* Better Font Rendering =========== */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.pc-icon-align-left:before {
+  content: "\e900";
+}
+.pc-icon-align-right:before {
+  content: "\e901";
+}
+.pc-icon-align-center:before {
+  content: "\e902";
+}
+.pc-icon-align-top:before {
+  content: "\e903";
+}
+.pc-icon-align-bottom:before {
+  content: "\e904";
+}
+.pc-icon-align-middle:before {
+  content: "\e905";
+}
+.pc-icon-bring-back:before {
+  content: "\e906";
+}
+.pc-icon-bring-backward:before {
+  content: "\e907";
+}
+.pc-icon-bring-forward:before {
+  content: "\e908";
+}
+.pc-icon-bring-front:before {
+  content: "\e909";
+}
