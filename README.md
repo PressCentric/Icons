@@ -10,6 +10,11 @@
  - Class Prefix: `pc-icon-`
  - Class Suffix: none
 
+### Manually Publishing to NPMJS
+
+ - update `package.json` with a new version tag
+ - run `npm publish`
+
 ### Adobe Illustrator Notes
 
 The following should be done in Illustrator when creating source SVG files:
