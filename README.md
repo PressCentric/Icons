@@ -4,6 +4,8 @@
 
 `archive/font-presscentric-icons-v*.zip` is the package as downloaded from IcoMoon
 
+### IcoMoon Settings
+
 ### Adobe Illustrator Notes
 
 The following should be done in Illustrator when creating source SVG files:

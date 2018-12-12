@@ -1,10 +1,10 @@
 @font-face {
   font-family: 'presscentric-icons';
-  src:  url('fonts/presscentric-icons.eot?b9wtc2');
-  src:  url('fonts/presscentric-icons.eot?b9wtc2#iefix') format('embedded-opentype'),
-    url('fonts/presscentric-icons.ttf?b9wtc2') format('truetype'),
-    url('fonts/presscentric-icons.woff?b9wtc2') format('woff'),
-    url('fonts/presscentric-icons.svg?b9wtc2#presscentric-icons') format('svg');
+  src:  url('fonts/presscentric-icons.eot?oyzlbf');
+  src:  url('fonts/presscentric-icons.eot?oyzlbf#iefix') format('embedded-opentype'),
+    url('fonts/presscentric-icons.ttf?oyzlbf') format('truetype'),
+    url('fonts/presscentric-icons.woff?oyzlbf') format('woff'),
+    url('fonts/presscentric-icons.svg?oyzlbf#presscentric-icons') format('svg');
   font-weight: normal;
   font-style: normal;
 }
@@ -24,33 +24,45 @@
   -moz-osx-font-smoothing: grayscale;
 }
 
-.pc-icon-align-left:before {
+.pc-icon-text-align-top:before {
   content: "\e900";
 }
-.pc-icon-align-right:before {
+.pc-icon-text-align-middle:before {
   content: "\e901";
 }
-.pc-icon-align-center:before {
+.pc-icon-text-align-bottom:before {
   content: "\e902";
 }
-.pc-icon-align-top:before {
+.pc-icon-text-align-justify-vertical:before {
   content: "\e903";
 }
-.pc-icon-align-bottom:before {
+.pc-icon-bring-front:before {
   content: "\e904";
 }
-.pc-icon-align-middle:before {
+.pc-icon-bring-forward:before {
   content: "\e905";
 }
-.pc-icon-bring-back:before {
+.pc-icon-bring-backward:before {
   content: "\e906";
 }
-.pc-icon-bring-backward:before {
+.pc-icon-bring-back:before {
   content: "\e907";
 }
-.pc-icon-bring-forward:before {
+.pc-icon-align-left:before {
   content: "\e908";
 }
-.pc-icon-bring-front:before {
+.pc-icon-align-center:before {
   content: "\e909";
+}
+.pc-icon-align-right:before {
+  content: "\e90a";
+}
+.pc-icon-align-top:before {
+  content: "\e90b";
+}
+.pc-icon-align-middle:before {
+  content: "\e90c";
+}
+.pc-icon-align-bottom:before {
+  content: "\e90d";
 }
