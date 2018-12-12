@@ -6,6 +6,10 @@
 
 ### IcoMoon Settings
 
+ - Font Name: `presscentric-icons`
+ - Class Prefix: `pc-icon-`
+ - Class Suffix: none
+
 ### Adobe Illustrator Notes
 
 The following should be done in Illustrator when creating source SVG files:
