@@ -7,10 +7,10 @@
 <font-face units-per-em="1024" ascent="960" descent="-64" />
 <missing-glyph horiz-adv-x="1024" />
 <glyph unicode="&#x20;" horiz-adv-x="512" d="" />
-<glyph unicode="&#xe900;" glyph-name="text-align-top" horiz-adv-x="1037" d="M58.329 901.671h920.304v-129.62h-920.304v129.62zM58.329 642.43h920.304v-129.62h-920.304v129.62z" />
-<glyph unicode="&#xe901;" glyph-name="text-align-middle" horiz-adv-x="1037" d="M58.329 642.43h920.304v-129.62h-920.304v129.62zM58.329 383.19h920.304v-129.62h-920.304v129.62z" />
-<glyph unicode="&#xe902;" glyph-name="text-align-bottom" horiz-adv-x="1037" d="M58.329 383.19h920.304v-129.62h-920.304v129.62zM58.329 123.949h920.304v-129.62h-920.304v129.62z" />
-<glyph unicode="&#xe903;" glyph-name="text-align-justify-vertical" horiz-adv-x="1037" d="M58.329 512.81h920.304v-129.62h-920.304v129.62zM58.329 901.671h920.304v-129.62h-920.304v129.62zM58.329 123.949h920.304v-129.62h-920.304v129.62z" />
+<glyph unicode="&#xe900;" glyph-name="text-align-top" horiz-adv-x="1037" d="M77.772 817.418h881.418v-103.696h-881.418v103.696zM680.506 499.848l-162.025 168.506-162.025-168.506h129.62v-421.266h64.81v421.266z" />
+<glyph unicode="&#xe901;" glyph-name="text-align-middle" horiz-adv-x="1037" d="M77.772 493.367h881.418v-90.734h-881.418v90.734zM667.544 208.203l-162.025 168.506-155.544-168.506h123.139v-194.43h71.291v194.43zM667.544 687.797l-162.025-168.506-155.544 168.506h123.139v194.43h71.291v-194.43z" />
+<glyph unicode="&#xe902;" glyph-name="text-align-bottom" horiz-adv-x="1037" d="M959.19 79.094h-881.418v103.696h881.418v-103.696zM356.456 396.152l162.025-168.506 162.025 168.506h-129.62v421.266h-64.81v-421.266z" />
+<glyph unicode="&#xe903;" glyph-name="text-align-justify-vertical" horiz-adv-x="1037" d="M97.215 875.747h881.418v-90.734h-881.418v90.734zM97.215 110.987h881.418v-90.734h-881.418v90.734zM550.886 597.063h129.62l-162.025 168.506-162.025-168.506h129.62v-298.127h-129.62l162.025-168.506 162.025 168.506h-129.62z" />
 <glyph unicode="&#xe904;" glyph-name="bring-front" d="M636.8 502.4h-636.8v435.2h640v-435.2zM32 534.4h569.6v371.2h-569.6v-371.2zM1020.8-41.6h-636.8v435.2h640v-435.2zM416-9.6h569.6v371.2h-569.6v-371.2zM160 704h681.6v-537.6h-681.6v537.6z" />
 <glyph unicode="&#xe905;" glyph-name="bring-forward" d="M1024 22.4h-755.2v550.4h755.2v-550.4zM313.6 67.2h668.8v460.8h-668.8v-460.8zM0 870.4h819.2v-656h-819.2v656z" />
 <glyph unicode="&#xe906;" glyph-name="bring-backward" d="M739.2 678.4v-329.6h-540.8v-332.8h825.6v662.4zM761.6 326.4h-761.6v556.8h758.4v-556.8zM44.8 371.2h675.2v467.2h-675.2v-467.2z" />
