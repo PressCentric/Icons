@@ -12,7 +12,7 @@
 
 ### Manually Publishing to NPMJS
 
- - update `package.json` with a new version tag
+ - update `package.json` with a new version tag (note: use `x.y.z` as version tag, `x.y` wont' work)
  - run `npm publish`
 
 ### Adobe Illustrator Notes
