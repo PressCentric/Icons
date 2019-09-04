@@ -1,10 +1,10 @@
 @font-face {
   font-family: 'presscentric-icons';
-  src:  url('fonts/presscentric-icons.eot?htxos2');
-  src:  url('fonts/presscentric-icons.eot?htxos2#iefix') format('embedded-opentype'),
-    url('fonts/presscentric-icons.ttf?htxos2') format('truetype'),
-    url('fonts/presscentric-icons.woff?htxos2') format('woff'),
-    url('fonts/presscentric-icons.svg?htxos2#presscentric-icons') format('svg');
+  src:  url('fonts/presscentric-icons.eot?7u8m3b');
+  src:  url('fonts/presscentric-icons.eot?7u8m3b#iefix') format('embedded-opentype'),
+    url('fonts/presscentric-icons.ttf?7u8m3b') format('truetype'),
+    url('fonts/presscentric-icons.woff?7u8m3b') format('woff'),
+    url('fonts/presscentric-icons.svg?7u8m3b#presscentric-icons') format('svg');
   font-weight: normal;
   font-style: normal;
   font-display: block;
@@ -25,6 +25,12 @@
   -moz-osx-font-smoothing: grayscale;
 }
 
+.pc-icon-fullscreen:before {
+  content: "\e915";
+}
+.pc-icon-fullscreen-revert:before {
+  content: "\e916";
+}
 .pc-icon-widescreen:before {
   content: "\e914";
 }
