@@ -1,10 +1,10 @@
 @font-face {
   font-family: 'presscentric-icons';
-  src:  url('fonts/presscentric-icons.eot?y9udyi');
-  src:  url('fonts/presscentric-icons.eot?y9udyi#iefix') format('embedded-opentype'),
-    url('fonts/presscentric-icons.ttf?y9udyi') format('truetype'),
-    url('fonts/presscentric-icons.woff?y9udyi') format('woff'),
-    url('fonts/presscentric-icons.svg?y9udyi#presscentric-icons') format('svg');
+  src:  url('fonts/presscentric-icons.eot?sutpxk');
+  src:  url('fonts/presscentric-icons.eot?sutpxk#iefix') format('embedded-opentype'),
+    url('fonts/presscentric-icons.ttf?sutpxk') format('truetype'),
+    url('fonts/presscentric-icons.woff?sutpxk') format('woff'),
+    url('fonts/presscentric-icons.svg?sutpxk#presscentric-icons') format('svg');
   font-weight: normal;
   font-style: normal;
   font-display: block;
@@ -49,17 +49,26 @@
 .pc-icon-text-align-justify-vertical:before {
   content: "\e903";
 }
-.pc-icon-text-justify-left:before {
+.pc-icon-text-align-left:before {
   content: "\e918";
 }
-.pc-icon-text-justify-right:before {
+.pc-icon-text-align-right:before {
   content: "\e919";
 }
-.pc-icon-text-justify-center:before {
+.pc-icon-text-align-center:before {
   content: "\e91a";
 }
-.pc-icon-text-justify-all:before {
+.pc-icon-text-justify-left:before {
   content: "\e91b";
+}
+.pc-icon-text-justify-right:before {
+  content: "\e91c";
+}
+.pc-icon-text-justify-center:before {
+  content: "\e91d";
+}
+.pc-icon-text-justify-all:before {
+  content: "\e91e";
 }
 .pc-icon-bring-front:before {
   content: "\e904";
