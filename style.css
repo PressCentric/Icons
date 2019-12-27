@@ -1,10 +1,10 @@
 @font-face {
   font-family: 'presscentric-icons';
-  src:  url('fonts/presscentric-icons.eot?sutpxk');
-  src:  url('fonts/presscentric-icons.eot?sutpxk#iefix') format('embedded-opentype'),
-    url('fonts/presscentric-icons.ttf?sutpxk') format('truetype'),
-    url('fonts/presscentric-icons.woff?sutpxk') format('woff'),
-    url('fonts/presscentric-icons.svg?sutpxk#presscentric-icons') format('svg');
+  src:  url('fonts/presscentric-icons.eot?gx209f');
+  src:  url('fonts/presscentric-icons.eot?gx209f#iefix') format('embedded-opentype'),
+    url('fonts/presscentric-icons.ttf?gx209f') format('truetype'),
+    url('fonts/presscentric-icons.woff?gx209f') format('woff'),
+    url('fonts/presscentric-icons.svg?gx209f#presscentric-icons') format('svg');
   font-weight: normal;
   font-style: normal;
   font-display: block;
@@ -114,6 +114,15 @@
 }
 .pc-icon-text-scale:before {
   content: "\e917";
+}
+.pc-icon-text-character-min:before {
+  content: "\e91f";
+}
+.pc-icon-text-character-max:before {
+  content: "\e920";
+}
+.pc-icon-text-character-limit:before {
+  content: "\e921";
 }
 .pc-icon-dnd-handle:before {
   content: "\e913";
