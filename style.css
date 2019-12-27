@@ -1,10 +1,10 @@
 @font-face {
   font-family: 'presscentric-icons';
-  src:  url('fonts/presscentric-icons.eot?qvoka');
-  src:  url('fonts/presscentric-icons.eot?qvoka#iefix') format('embedded-opentype'),
-    url('fonts/presscentric-icons.ttf?qvoka') format('truetype'),
-    url('fonts/presscentric-icons.woff?qvoka') format('woff'),
-    url('fonts/presscentric-icons.svg?qvoka#presscentric-icons') format('svg');
+  src:  url('fonts/presscentric-icons.eot?su8oj0');
+  src:  url('fonts/presscentric-icons.eot?su8oj0#iefix') format('embedded-opentype'),
+    url('fonts/presscentric-icons.ttf?su8oj0') format('truetype'),
+    url('fonts/presscentric-icons.woff?su8oj0') format('woff'),
+    url('fonts/presscentric-icons.svg?su8oj0#presscentric-icons') format('svg');
   font-weight: normal;
   font-style: normal;
   font-display: block;
@@ -115,10 +115,10 @@
 .pc-icon-text-scale:before {
   content: "\e917";
 }
-.pc-icon-text-character-min:before {
+.pc-icon-text-character-max:before {
   content: "\e91f";
 }
-.pc-icon-text-character-max:before {
+.pc-icon-text-character-min:before {
   content: "\e920";
 }
 .pc-icon-text-character-limit:before {
